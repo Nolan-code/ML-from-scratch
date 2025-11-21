@@ -9,24 +9,24 @@ First implementation of softmax classificaion algorythm from scratch to predict 
 - Data Visualization with matplotlib and pandas
 
 ## Selected Features
--fixed acidity
--volatile acidity
--citric acidity
--residual sugar
--chlorides
--free sulfure dioxyde
--total sulfure dioxyde
--density
--pH
--sulfate
--alcohol
+- fixed acidity
+- volatile acidity
+- citric acidity
+- residual sugar
+- chlorides
+- free sulfure dioxyde
+- total sulfure dioxyde
+- density
+- pH
+- sulfate
+- alcohol
 
 ## Results Summary with sklearn library
 - accuracy of 0.61 for red wine
 - accuracy of 0.53 for white wine
-This model isn't trustable, we barely have 1 chance over 2 that the prediction is wrong.
+- This model isn't trustable, we barely have 1 chance over 2 that the prediction is wrong.
 
 ## Results Summary with manual implementation
 - accuracy of 0.59 for red wine
 - accuracy of 0.50 for white wine
-We have the same conclusion.
+- We have the same conclusion.
