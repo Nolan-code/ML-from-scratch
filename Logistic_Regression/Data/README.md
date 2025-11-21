@@ -40,11 +40,11 @@ The initial dataset includes the following features:
 - symmetry3
 - fractal_dimension3
 
-##Data cleaning
+## Data cleaning
 
 - During the cleaning process, only the ID was removed and the Diagnosis categories go from "M" and "B" to 1 and 0
 
-##Source
+## Source
 
 - https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
