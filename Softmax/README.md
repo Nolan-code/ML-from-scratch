@@ -30,3 +30,7 @@ First implementation of softmax classificaion algorythm from scratch to predict 
 - accuracy of 0.59 for red wine
 - accuracy of 0.50 for white wine
 - We have the same conclusion.
+
+## Courbe des pertes
+
+![Loss Curve](graph_losses_softmax)
