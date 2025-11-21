@@ -9,7 +9,9 @@ First implementation of logistic regression from scratch to predict the type of 
 - Data Visualization with matplotlib and pandas
 
 ##Features selection
-Only the ID feature was removed
+
+- Only the ID feature was removed
 
 ##Results
-Both manual and libraries based implementation gets an accuracy score above 90%. Even if this model is quite simple, the results are quite good and seems to be a good model for tumor type prediction 
+
+- Both manual and libraries based implementation gets an accuracy score above 90%. Even if this model is quite simple, the results are quite good and seems to be a good model for tumor type prediction 
