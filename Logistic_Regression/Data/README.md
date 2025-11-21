@@ -7,7 +7,6 @@ This folder contains all datasets used for the Bike Count Prediction project.
 ## Dataset Description
 
 The initial dataset includes the following features:
-
 -ID
 -Diagnosis
 -radius1
@@ -44,6 +43,10 @@ The initial dataset includes the following features:
 ##Data cleaning
 
 During the cleaning process, only the ID was removed and the Diagnosis categories go from "M" and "B" to 1 and 0
+
+##Source
+
+-https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 
 
