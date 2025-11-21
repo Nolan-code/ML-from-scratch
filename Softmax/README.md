@@ -33,4 +33,4 @@ First implementation of softmax classificaion algorythm from scratch to predict 
 
 ## Courbe des pertes
 
-![Loss Curve](graph_losses_softmax)
+![Loss Curve](graph_losses_softmax.png)
