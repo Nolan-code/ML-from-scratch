@@ -5,7 +5,7 @@ First implementation of logistic regression from scratch to predict the type of 
 
 ## Key Features
 - Feature Selection: from multiple physical factors of the tumor
-- Linear Regression: implementation with sklearn library and manual implementation
+- Logistic Regression: implementation with sklearn library and manual implementation
 - Data Visualization with matplotlib and pandas
 
 ## Features selection
